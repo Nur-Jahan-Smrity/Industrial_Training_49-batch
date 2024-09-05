@@ -32,7 +32,7 @@ news = {
         "id":4,
         "title": "What's the Google calls on LLM!!!",
         "content": "Content on modern LLM models both close & open source",
-        "author": "Ema"
+        "author": "Smrity"
     }
         
 }
